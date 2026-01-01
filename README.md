@@ -1,2 +1,2 @@
-# module-3.1
+# AI IN DATA SCIENCE
 matplotlib question practice 2
